@@ -1,11 +1,10 @@
-# DeepPiCar
+# DeepPiCar <!-- omit in toc --> 
 Self driving RC car with Rasberry Pi, Computer vision, Object Detection
 By Thomas Duffy and Daniel Reiff
 
-# README WIP
+# README WIP <!-- omit in toc --> 
 
-- [DeepPiCar](#deeppicar)
-- [README WIP](#readme-wip)
+# Table of Contents <!-- omit in toc --> 
 - [**Introduction**](#introduction)
 - [**Contact Us!**](#contact-us)
 - [**Readme Credits and Sources**](#readme-credits-and-sources)
