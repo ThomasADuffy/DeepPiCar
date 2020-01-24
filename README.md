@@ -1,9 +1,7 @@
 # DeepPiCar <!-- omit in toc --> 
 Self driving RC car with Rasberry Pi, Computer vision, Object Detection
 By Thomas Duffy and Daniel Reiff
-<p align="center"> 
-<img src="/imgs/readme_imgs/title1.jpg">
-</p>
+
 <p align="center"> 
 <img src="/imgs/readme_imgs/title2.jpg">
 </p>
@@ -24,9 +22,10 @@ So the first few steps were following the guide to get things working at least. 
 
 Heres a demonstration of the car navigating lanes by itself utilizing the mathematical method:
 <br>
-<iframe src="https://player.vimeo.com/video/387046156" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/387046156">DeepPiCar - Thomas Duffy and Daniel Reiff</a> from <a href="https://vimeo.com/user62245259">tombo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
+<p align="center"> 
+<img src="/imgs/readme_imgs/title1.jpg"  href="https://vimeo.com/387046156">
+</p>
+<br>
 
 # **Contact Us!**
 <p class="lead" align="center"><font size='4'>Linked-In<br> <a href="https://www.linkedin.com/in/thomas-a-duffy/">Thomas Duffy</a><br></font><hr />
