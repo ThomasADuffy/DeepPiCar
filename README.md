@@ -23,7 +23,9 @@ So the first few steps were following the guide to get things working at least. 
 Heres a demonstration of the car navigating lanes by itself utilizing the mathematical method:
 <br>
 <p align="center"> 
-<img src="/imgs/readme_imgs/title1.jpg"  href="https://vimeo.com/387046156">
+<a href="https://vimeo.com/387046156">
+<img src="/imgs/readme_imgs/title1.jpg">
+</a>
 </p>
 <br>
 
